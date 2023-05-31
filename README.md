@@ -1,1 +1,0 @@
-# LB1_Kunitz_domain
